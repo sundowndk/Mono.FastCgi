@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi
+END
+BeginRequestBody.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/BeginRequestBody.cs
+END
+Record.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/Record.cs
+END
+Logger.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/Logger.cs
+END
+UnknownTypeBody.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/UnknownTypeBody.cs
+END
+SocketFactory.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/SocketFactory.cs
+END
+Request.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/Request.cs
+END
+NameValuePair.cs
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/NameValuePair.cs
+END
+Strings.cs
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/Strings.cs
+END
+ISocketAbstraction.cs
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/ISocketAbstraction.cs
+END
+UnixSocket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/UnixSocket.cs
+END
+EndRequestBody.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/EndRequestBody.cs
+END
+Connection.cs
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/Mono.FastCgi/!svn/ver/2/Trunk/Mono.FastCgi/Mono.FastCgi/Connection.cs
+END
+TcpSocket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/TcpSocket.cs
+END
+Server.cs
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/Server.cs
+END
+UnmanagedSocket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/UnmanagedSocket.cs
+END
+StandardSocket.cs
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/StandardSocket.cs
+END
+ResponderRequest.cs
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/Mono.FastCgi/!svn/ver/1/Trunk/Mono.FastCgi/Mono.FastCgi/ResponderRequest.cs
+END

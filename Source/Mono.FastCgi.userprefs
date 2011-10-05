@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mono.FastCgi/Mono.FastCgi/Logger.cs">
+    <Files>
+      <File FileName="Mono.FastCgi/Mono.FastCgi/UnknownTypeBody.cs" Line="55" Column="16" />
+      <File FileName="Mono.FastCgi/Mono.FastCgi/Strings.cs" Line="1" Column="1" />
+      <File FileName="Mono.FastCgi/Mono.FastCgi/Logger.cs" Line="258" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Mono.FastCgi" expanded="True" selected="True">
+            <Node name="References" expanded="True" />
+            <Node name="Mono.FastCgi" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
