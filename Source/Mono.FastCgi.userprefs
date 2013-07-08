@@ -1,17 +1,18 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mono.FastCgi/Mono.FastCgi/Logger.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mono.FastCgi/Mono.FastCgi/Request.cs">
     <Files>
-      <File FileName="Mono.FastCgi/Mono.FastCgi/UnknownTypeBody.cs" Line="55" Column="16" />
-      <File FileName="Mono.FastCgi/Mono.FastCgi/Strings.cs" Line="1" Column="1" />
-      <File FileName="Mono.FastCgi/Mono.FastCgi/Logger.cs" Line="258" Column="16" />
+      <File FileName="Mono.FastCgi/Mono.FastCgi/ResponderRequest.cs" Line="151" Column="2" />
+      <File FileName="Mono.FastCgi/Mono.FastCgi/Request.cs" Line="314" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Mono.FastCgi" expanded="True" selected="True">
+          <Node name="Mono.FastCgi" expanded="True">
             <Node name="References" expanded="True" />
-            <Node name="Mono.FastCgi" expanded="True" />
+            <Node name="Mono.FastCgi" expanded="True">
+              <Node name="Request.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
